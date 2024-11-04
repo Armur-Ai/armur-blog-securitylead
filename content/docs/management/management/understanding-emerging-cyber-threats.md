@@ -1,11 +1,9 @@
 ---
 title: "Understanding Emerging Cyber Threats: Leveraging Threat Intelligence Platforms & Vulnerability Databases"
-description: "Explore the evolving threat landscape and learn how to identify and analyze new attack vectors, malware trends, and vulnerabilities using threat intelligence platforms and vulnerability databases."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/2.avif"
 icon: "code"
 draft: false
 ---
-## Introduction
 
 The cybersecurity threat landscape is constantly evolving, with new attack vectors, malware strains, and vulnerabilities emerging at an alarming rate.  For security leaders, staying ahead of these threats is crucial for protecting their organizations from potential attacks. This tutorial explores the key elements of the evolving threat landscape and provides guidance on how to leverage threat intelligence platforms and vulnerability databases to identify and analyze emerging threats.
 

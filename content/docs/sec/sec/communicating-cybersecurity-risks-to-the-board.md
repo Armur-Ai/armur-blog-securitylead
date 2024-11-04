@@ -1,11 +1,9 @@
 ---
 title: "Communicating Cybersecurity Risks to the Board: Frameworks, Data Visualization & Effective Reporting"
-description: "Master the art of conveying cybersecurity risks to the board of directors using risk assessment frameworks, compelling data visualization techniques, and persuasive reporting strategies."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/3.jpg"
 icon: "code"
 draft: false
 ---
-## Introduction
 
 Effectively communicating cybersecurity risks to the board of directors is a crucial responsibility for security leaders.  Board members need to understand the potential impact of cyber threats on the organization's operations, finances, and reputation to make informed decisions about resource allocation and risk mitigation strategies. This tutorial provides guidance on how to articulate cybersecurity risks effectively, leveraging risk assessment frameworks, data visualization techniques, and persuasive reporting strategies.
 

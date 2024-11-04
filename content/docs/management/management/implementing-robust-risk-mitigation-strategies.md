@@ -1,11 +1,9 @@
 ---
 title: "Implementing Robust Risk Mitigation Strategies: Deploying SIEM, IDS/IPS & Security Controls"
-description: "Learn how to implement effective risk mitigation strategies by deploying security information and event management (SIEM) systems, intrusion detection/prevention systems (IDS/IPS), and other crucial security controls."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/2.avif"
 icon: "code"
 draft: false
 ---
-## Introduction
 
 Once you've identified and prioritized security risks through a risk assessment, the next step is to implement effective risk mitigation strategies. This involves deploying appropriate security controls, including security technologies, policies, and procedures, to reduce the likelihood and impact of potential attacks. This tutorial focuses on implementing robust risk mitigation strategies, including deploying security information and event management (SIEM) systems, intrusion detection/prevention systems (IDS/IPS), and other crucial security controls.
 

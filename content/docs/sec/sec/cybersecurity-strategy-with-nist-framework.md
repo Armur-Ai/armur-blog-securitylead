@@ -1,12 +1,9 @@
 ---
 title: "Developing a Comprehensive Cybersecurity Strategy with NIST Framework & SWOT Analysis"
-description: "Learn how to align your security strategy with business goals, identify key assets and risks, and build a roadmap for implementing robust security controls using the NIST Cybersecurity Framework and SWOT Analysis."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/3.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 In today's rapidly evolving threat landscape, a robust cybersecurity strategy is no longer a luxury but a necessity for organizations of all sizes. A well-defined strategy aligns security initiatives with business objectives, ensures resources are allocated effectively, and minimizes the impact of potential cyber threats. This tutorial guides you through the process of developing a comprehensive cybersecurity strategy leveraging two powerful tools: the NIST Cybersecurity Framework and SWOT Analysis.
 

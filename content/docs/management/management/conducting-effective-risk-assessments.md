@@ -1,12 +1,9 @@
 ---
 title: "Conducting Effective Risk Assessments: A Guide to NIST SP 800-30 & Vulnerability Scanning"
-description: "Master the process of conducting comprehensive risk assessments using the NIST SP 800-30 framework and vulnerability scanners to identify threats, analyze potential impacts, and prioritize mitigation efforts."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/2.avif"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 Risk assessments are a foundational element of any robust cybersecurity program. They provide a structured approach to identifying, analyzing, and prioritizing security risks, enabling organizations to allocate resources effectively and mitigate potential threats. This tutorial guides you through the process of conducting effective risk assessments, leveraging the NIST SP 800-30 framework and vulnerability scanning tools.
 

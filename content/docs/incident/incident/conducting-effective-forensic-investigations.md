@@ -1,12 +1,9 @@
 ---
 title: "Conducting Effective Forensic Investigations: Utilizing Digital Forensics Tools & Log Management Systems"
-description: "Master the fundamentals of conducting forensic investigations following a security incident, including collecting and analyzing evidence, identifying attackers, and determining the extent of the damage using digital forensics tools and log management systems."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/1.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 Forensic investigations play a crucial role in responding to security incidents, identifying attackers, and determining the extent of the damage. These investigations involve the systematic collection, preservation, and analysis of digital evidence to reconstruct the events that led to the incident. This tutorial covers the fundamentals of conducting effective forensic investigations, leveraging digital forensics tools and log management systems.
 

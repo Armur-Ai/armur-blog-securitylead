@@ -1,12 +1,9 @@
 ---
 title: "Building a Robust Incident Response Plan: A Guide to NIST SP 800-61 & Incident Management Platforms"
-description: "Learn how to develop a comprehensive incident response plan using the NIST SP 800-61 framework and incident management platforms, defining roles, establishing communication protocols, and outlining escalation procedures."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/1.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 A well-defined incident response plan is crucial for minimizing the impact of security incidents and ensuring a swift and effective response.  This plan outlines the steps to be taken in the event of a security breach, data leak, or other cybersecurity incidents. This tutorial guides you through the process of developing a comprehensive incident response plan, leveraging the NIST SP 800-61 framework and incident management platforms.
 

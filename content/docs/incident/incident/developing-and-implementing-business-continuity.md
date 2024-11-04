@@ -1,11 +1,9 @@
 ---
 title: "Developing & Implementing Business Continuity and Disaster Recovery Plans: Tools & Strategies for Resilience"
-description: "Explore the process of developing and implementing robust business continuity and disaster recovery plans using business impact analysis tools and backup and recovery solutions to ensure business resilience in the face of major disruptions."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/1.jpg"
 icon: "code"
 draft: false
 ---
-## Introduction
 
 Business continuity and disaster recovery planning are essential for ensuring that organizations can continue operating in the event of a major disruption, such as a natural disaster, cyberattack, or equipment failure.  These plans outline the steps to be taken to restore critical business functions and minimize downtime. This tutorial explores the process of developing and implementing robust business continuity and disaster recovery plans, leveraging business impact analysis tools and backup and recovery solutions.
 

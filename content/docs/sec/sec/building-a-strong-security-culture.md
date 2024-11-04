@@ -1,12 +1,9 @@
 ---
 title: "Building a Strong Security Culture: Training, Phishing Simulations & Awareness Platforms"
-description: "Discover how to foster a security-conscious organizational culture through effective training programs, engaging phishing simulations, and leveraging security awareness platforms."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securitylead/images/3.jpg"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 In today's interconnected world,  cybersecurity threats are not just an IT problem but a business-wide concern. Building a strong security culture is paramount for protecting your organization from increasingly sophisticated attacks. This means fostering an environment where all employees understand their role in safeguarding sensitive information and actively participate in security best practices. This tutorial explores key strategies and tools for building a strong security culture, including security awareness training, phishing simulations, and security awareness platforms.
 
